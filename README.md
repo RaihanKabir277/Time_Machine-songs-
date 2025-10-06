@@ -25,6 +25,15 @@ It scrapes Billboard's historical charts and uses the **Spotify Web API** to fin
 
 ---
 
+---
+## 📂 billboard-to-spotify/
+- ├── main.py              # Main script
+- ├── token.txt            # OAuth token cache (auto-generated)
+- └── README.md            # Documentation
+
+---
+
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
